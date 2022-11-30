@@ -1,0 +1,112 @@
+name,ring,quadrant,isNew,description
+Bitcoin,Trial,Blockchain,FALSE,"Bitcoin is the first and most widely recognized cryptocurrency. It enables peer-to-peer exchange of value in the digital realm through the use of a decentralized protocol, cryptography, and a mechanism to achieve global consensus on the state of a periodically updated public transaction ledger called a 'blockchain.' Practically speaking, Bitcoin is a form of digital money that (1) exists independently of any government, state, or financial institution, (2) can be transferred globally without the need for a centralized intermediary, and (3) has a known monetary policy that arguably cannot be altered.
+https://www.bitcoin.com/ 
+https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD  
+https://www.coinbase.com/ru/learn/crypto-basics/what-is-bitcoin 
+"
+Twitter Block Chain,InUse,Blockchain,TRUE,"How does blockchain work twitter?
+Twitter Block Chain (which will be addressed as Blockchain in this piece) is a browser extension developed by devFluid that will automatically block the followers and followings of a Twitter user when activated.
+https://twitter.com/blockchain 
+"
+Chainalysis,Access,Blockchain,FALSE,"Chainalysis builds tools to help financial institutions and governments monitor the exchange of cryptocurrencies. The company’s due diligence software monitors and detects fraudulent trading, laundering and compliance violations, and builds trust in blockchain. Chainalysis KYT is an integrative API which if installed on a blockchain project enables the company to comply with local and global regulations. Reactor part makes searches based on IDs. It can identify a wallet user by simply inputting a cryptocurrency address and automatically searches through hundreds of social media forums as well as darknets.  In the event that a suspicious entity needs to be watched, Chainalysis uses its Reactor function to notify the appropriate authorities whenever a transaction is taking place. Also this program accomplishes this by providing comprehensive profiles of bitcoin firms based on KYC (Know Your Customer) information as well as other industry-recognised and trusted blockchain data. Thanks to its extensive database, Chainalysis has been able to identify over 2000 unique services which collectively manage hundreds of cryptocurrency addresses worth more than $1 trillion. 
+https://www.chainalysis.com/ 
+https://coinrivet.com/guides/regulation/what-is-chainalysis-the-cryptocurrency-crime-detector/ 
+"
+Circle,Access,Blockchain,TRUE,"Boston-based Circle oversees the exchange and payouts of cryptocurrency between users. Circle’s investment and money transfer platform currently features seven different cryptocurrencies, including Bitcoin, Monero and Zcash.
+https://www.circle.com/en/ 
+"
+Algorand,Access,Blockchain,ИСТИНА,"Algorand develops technology that reduces the gaps between traditional and decentralized finance, implementing next-generation products and protocols to make financial transactions more equitable. The company’s technology is enabled by a set of Layer-1 blockchains to provide scalability, security, transaction finality, privacy, co-chain and smart contract capabilities, with use cases ranging from securities and supply chains to insurance, gaming, digital contracts and beyond.
+https://www.algorand.com/ 
+"
+NVIDIA Omniverse,Access,Virtual/ Augmented Reality (VR),ИСТИНА,"NVIDIA Omniverse accelerates your 3D workflows and creates new ways for you to explore your ideas. Connect your favorite apps in Omniverse Create or View and see your combined models and scene come to life at blazing speed using the platform’s advanced physics and RTX Renderer. 
+https://www.nvidia.com/ru-ru/omniverse/  
+https://www.youtube.com/watch?v=dvdB-ndYJBM 
+"
+Masterpiece Studio Pro ,Access,Virtual/ Augmented Reality (VR),ИСТИНА,"From concept art to designs, you can draw, model, optimize, rig, skin and animate directly with your hands in 3D and VR with PC and headset. You can also export projects to game engines and animation software for further development.
+It boasts some highly advanced features such as the auto-rigger and auto-skin functions that let you create an entire model in just one click. Other functionalities include a simple UI, mesh processing tools, texture painting, retopology, stamps, and kitbashing, making Masterpiece Studio Pro a favorite among artists and designers.
+https://justcreative.com/best-software-for-ar-and-vr-design/ 
+"
+Google Tilt Brush,Access,Virtual/ Augmented Reality (VR),ИСТИНА,"It lets you paint in a 3D space with virtual reality, using various dynamic brushes and shaders, from ink and smoke to snow and fire.
+Using Google Tilt Brush, you can create artwork and designs that you can interact with and walk around in for an authentic one-of-a-kind experience. The possibilities are endless with this app, and all you need is a VR headset to get started.
+https://www.tiltbrush.com/  
+"
+Unity 3D,Access,Virtual/ Augmented Reality (VR),ИСТИНА,"Unity 3D is the world’s most popular platform for creating 3D projects and has been the trusted choice of game developers, animators, and visual artists for years. It is a complete VR development tool and has a vast asset store of 2D, 3D designs and templates that you can directly import into the development environment.
+It is backed by a large community of developers who are constantly working on improving the quality along with quickening the development process. Combined with a high-optimization rendering pipeline, stereo instancing, spatial audio, authoring tools, and the rapid iteration capabilities of the Editor, it isn’t difficult to see why Unity is one of the world’s best 3D development platforms.
+https://unity.com/ "
+Microsoft Mesh,Access,Virtual/ Augmented Reality (VR),ИСТИНА,"Through mixed reality applications, Microsoft Mesh enables presence and shared experiences from anywhere and on any device. Colleagues who work in different time zones connect online. They can analyze data more quickly and make more informed decisions because of their shared knowledge. Thanks to holoportation, holographic sharing, and visualization, coworkers may replicate the chance encounters of in-person learning without incurring the time and expense of travel.
+https://www.microsoft.com/en-us/mesh 
+"
+Decentraland,Access,Virtual/ Augmented Reality (VR),FALSE,"Decentraland is a browser-based 3D virtual world platform. The MANA cryptocurrency, which makes use of the Ethereum blockchain, allows users to purchase virtual land plots in the platform as NFTs. The community can create shared places with shared interests and uses by dividing parcels into Districts.
+https://decentraland.org/ 
+https://en.wikipedia.org/wiki/Decentraland "
+Horizon Workrooms,Promising,Virtual/ Augmented Reality (VR),ИСТИНА,"Horizon Workrooms (beta) is a virtual reality space where teams can communicate, work, and generate ideas together. Even if you are on the other side of the planet, find teammates across the table. By writing directly on your desk or another vertical surface in your room while holding your controller like a pen, you may create a tactile experience. Workrooms effortlessly integrate your home office with the VR environment, allowing you to feel immersed while being grounded and at ease. Oculus Remote Desktop may be used with your PC to effortlessly share your screen, take notes, and text on it. 
+https://www.oculus.com/horizon-worlds/ "
+R-Programming,Access,Big data (BD),FALSE,"Domain-specific programming language specifically designed for statistical analysis, scientific computing, and data visualization using R Programming. Software helps data scientists to create statistics engines that can provide better and precise insights due to relevant and accurate data collection.
+https://www.r-project.org/    
+https://cran.r-project.org/doc/FAQ/R-FAQ.html  
+"
+Altamira Lumify,Access,Big data (BD),TRUE,"Tool to get a set of analytics options that include graph visualizations, full-text faceted search, dynamic histograms, interactive geospatial views, and collaborative workspaces that can be shared in real-time.  Lumify comes with specific ingest processing and interface elements for textual content, images, and videos. The platform allows you to organize your work in different workspaces. 
+The platform is built on proven,scalable big data technologies. It is secure, scalable, and backed by a motivated full-time development team. Works on Linux/Unix, Ubuntu. 
+https://www.bloomberg.com/press-releases/2017-08-29/altamira-lumify-now-available-on-microsoft-azure 
+https://azuremarketplace.microsoft.com/en-en/marketplace/apps/altamira-corporation.lumify?tab=Overview 
+"
+Apache Hadoop,Access,Big data (BD),FALSE,"An open-source software framework for storing data and running applications on clusters of commodity hardware. Apache Hadoop is a framework that consists of a software ecosystem. Hadoop Distributed File System or HDFS and MapReduce are the two primary components of Hadoop. The software produces a distributed storage framework and uses the MapReduce programming model for the processing of big data. 
+https://hadoop.apache.org/releases.html 
+https://aws.amazon.com/ru/elasticmapreduce/details/hadoop/ 
+"
+MongoDB,Access,Big data (BD),TRUE,"A document-oriented NoSQL database used to store high volumes of data. Each database in MongoDB contains collections that in turn contain documents. However, the size, content, and number of fields vary from document to document.
+Developers get a chance to alter the document structure. 
+https://www.mongodb.com/try/download/community 
+"
+Python,Access,Big data (BD),FALSE,"Python is a high-level  programming language that lets you work quickly and integrate systems more effectively. Includes various libraries and tools which make programming more easier and specifically oriented.
+https://www.python.org/ 
+"
+Tweepy,In Use,Big data (BD),TRUE,"An easy-to-use Python library for accessing the Twitter API.
+https://www.tweepy.org 
+"
+RapidMiner,Access,Big data (BD),TRUE,"RapidMiner offers the most powerful and intuitive graphical user interface for the design of the analysis process. 
+In addition to Windows operating systems, RapidMiner also supports Macintosh, Linux, and Unix systems.
+The platform's features include built-in security controls, reduced need for writing the code, a visual workflow designer for Hadoop and Sparx. 
+https://rapidminer.com/ 
+"
+Apache Spark,Access,Big data (BD),TRUE,"It is a data processing framework that can quickly possess very large data sets. 
+It can also distribute data processing tasks across multiple computers, either on its own or in conjunction with other distributed computing tools.
+Apache Spark features in-built for streaming, SQL, machine learning, and graph processing support and earns the site as the speediest and common generator for big data transformation. 
+https://spark.apache.org/ 
+https://www.techtarget.com/searchdatamanagement/definition/Apache-Spark 
+"
+Microsoft Azure,Access,Big data (BD),TRUE,"A public cloud computing platform handled by Microsoft. It provides a range of services that include computing, analytics, storage, and networking.  It provides an enterprise-scale cluster for the organization so that they can run their big data workloads.
+https://azureforeducation.microsoft.com/devtools 
+"
+Scikit Learn,Access,Artificial Intelligence (AI),TRUE,"One of the popular tools used in the ML libraries, Scikit learn, underpins the unsupervised and administered calculations. The precedent can incorporate calculated and direct relapses, bunching, choice trees, etc. The tool expands to SciPy, Python, and NumPy libraries. There are plenty of calculations for data mining and regular AI assignments. Even the undertakings like feature determination, changing information, and ensemble techniques take just a few lines to execute. If you wish to use a tool for fledglings, then Scikit learn is the perfect instrument that you can work with.
+https://scikit-learn.org/stable/ 
+https://github.com/scikit-learn/scikit-learn 
+https://www.youtube.com/watch?v=rvVkVsG49uU 
+"
+Tensorflow,Access,Artificial Intelligence (AI),TRUE,"Calculations could be profound, and you may attempt them but are these always essential? Well, not always. However, if done right, are these calculations worthy? The answer to this is an absolute YES. Tensorflow lets you compose a Python program, and then you can run it and arrange it on the GPU or the CPU. So if you want to run the program on the GPUs, then you do not have to compose it at the CDA or the C level.
+https://www.tensorflow.org/ 
+https://habr.com/ru/post/305578/ 
+https://ru.wikipedia.org/wiki/TensorFlow 
+"
+Theano,Access,Artificial Intelligence (AI),TRUE,"The Theano is folded over the Keras. Keras is a Python library moderately that allows profound discovery that runs on Tensorflow or Theano. Theano was made to create models of profound learning and make them simple and quick to be feasible to put into some innovative work. It runs on Python and can be executed on GPUs and CPUs. Theano can exploit the GPU of the PC. This lets it make escalated information counts many times more than when it is kept to run on the CPU only. The speed of Theano makes it highly profitable to carry out any complex computations.
+https://ru.wikipedia.org/wiki/Theano 
+https://github.com/Theano/Theano 
+https://pypi.org/project/Theano/ 
+"
+MxNet,Access,Artificial Intelligence (AI),TRUE,"MxNet allows using a forgetful back prop to trade the computations time in return for memory. This is particularly useful in the case of a recurrent net that is in a long sequence. The tool has been built to ensure scalability, and it is easy to support the multi-machine and multi-GPU training. It is equipped with features like writing the custom layers in a high-level language. The framework is not governed by any corporation, which makes it healthy as an open source as it is a framework that a community has developed.
+https://mxnet.apache.org/versions/1.9.1/ 
+https://aws.amazon.com/ru/mxnet/ 
+"
+PyTorch,Access,Artificial Intelligence (AI),TRUE,"An artificial system that has been created by Facebook, PyTorch code is easily accessible on Github. It has more than 22000 stars. The framework has been highly in demand in the last few years and is in a continuous development phase.
+https://pytorch.org/ 
+"
+Microsoft Cognitive Toolkit,Access,Artificial Intelligence (AI),TRUE,"The Microsoft Cognitive Toolkit (CNTK) is a short-code toolkit for the commercial distribution of deep learning. He describes neural networks as a series of computational steps using a directed graph. CNTK makes it easy to implement and use popular model types such as Redirected DNNs, Convolutional Neural Network (CNN), and Recurrent Neural Networks (RNN/LSTM). CNTK implements stochastic gradient descent (UNIX, backward error) learning with increased differentiation and parallelization across multiple GPUs and backbone servers.
+https://learn.microsoft.com/ru-ru/cognitive-toolkit/ 
+"
+Caffe,Access,Artificial Intelligence (AI),TRUE,"Caffe is a deep learning framework made with expression, speed, and modularity in mind. It is developed by Berkeley AI Research (BAIR) and by community contributors. Yangqing Jia created the project during his PhD at UC Berkeley. Caffe is released under the BSD 2-Clause license.
+https://caffe.berkeleyvision.org/ 
+https://ru.wikipedia.org/wiki/Caffe 
+"
+Microsoft Zo,In Use,Artificial Intelligence (AI),TRUE,"Zo was an artificial intelligence English-language chatbot developed by Microsoft. It was the successor to the chatbot Tay.[1][2] Zo was an English version of Microsoft's other successful chatbots Xiaoice (China) and Rinna [ja] (Japan).
+https://en.wikipedia.org/wiki/Zo_(bot) 
+"
